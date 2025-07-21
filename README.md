@@ -1,4 +1,4 @@
-![res](https://github.com/user-attachments/assets/c22711e1-6433-4b4f-8e9a-4bc38bba23af)# 💫 About Me:
+# 💫 About Me:
 🔭 I’m currently working on full-stack web development projects and DSA<br>👯 I’m looking to collaborate in Web-Dev projects<br>🤝 I’m looking for help with Artificial Intelligence<br>🌱 I’m currently learning AI and Data Structure and Algorithm<br>💬 Regular DSA practitioner 🧠<br>⚡ Loves to sketch and draw
 
 

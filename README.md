@@ -1,3 +1,6 @@
+
+# Hi👋🏻, I'm Tarun Yadav<br>🔭 Exploring the world with curiosity 
+
 # 💫 About Me:
 🔭 I’m currently working on full-stack web development projects and DSA<br>👯 I’m looking to collaborate in Web-Dev projects<br>🤝 I’m looking for help with Artificial Intelligence<br>🌱 I’m currently learning AI and Data Structure and Algorithm<br>💬 Regular DSA practitioner 🧠<br>⚡ Loves to sketch and draw
 

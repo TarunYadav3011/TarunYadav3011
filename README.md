@@ -2,7 +2,7 @@
 <h3 align="center">🚀 Software Developer | Computer Science Engineer </h3>
 
 
-## 🔭 Exploring the world with curiosity 
+<p align="center"> 🔭 Exploring the world with curiosity </p>
 
 # 💫 About Me:
 🔭 I’m currently working on full-stack web development projects and DSA<br>👯 I’m looking to collaborate in Web-Dev projects<br>🤝 I’m looking for help with Artificial Intelligence<br>🌱 I’m currently learning AI and Data Structure and Algorithm<br>💬 Regular DSA practitioner 🧠<br>⚡ Loves to sketch and draw

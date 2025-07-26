@@ -1,5 +1,7 @@
+<h1 align="center"> Hi👋🏻, I'm Tarun Yadav</h1>
+<h3 align="center">🚀 Software Developer | Computer Science Engineer </h3>
 
-# Hi👋🏻, I'm Tarun Yadav<br><br>
+
 ## 🔭 Exploring the world with curiosity 
 
 # 💫 About Me:

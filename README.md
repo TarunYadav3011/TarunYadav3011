@@ -7,6 +7,12 @@
 # 💫 About Me:
 🔭 I’m currently working on full-stack web development projects and DSA<br>👯 I’m looking to collaborate in Web-Dev projects<br>🤝 I’m looking for help with Artificial Intelligence<br>🌱 I’m currently learning AI and Data Structure and Algorithm<br>💬 Regular DSA practitioner 🧠<br>⚡ Loves to sketch and draw
 
+## 📄 Resume
+
+<a href="./resume.pdf" target="_blank">
+  <img src="https://drive.google.com/file/d/1gJc3i6grppAXvmKuNYtWge_im6hQnuAg/view?usp=sharing" alt="resume">
+</a>
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/tarun-yadav-ab8279306/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:tarunydv2103@gmail.com) 
